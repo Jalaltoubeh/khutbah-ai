@@ -58,25 +58,6 @@ The supervisor routes between subgraphs based on state and loops until validatio
 - Admin panel with login history and session logs
 - Light/dark mode toggle
 
----
-
-## Setup
-
-1. Clone the repo
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Create a `.env` file based on `.env.example`:
-```
-MONGO_URI=your-mongodb-uri
-AUTH_MONGO_URI=your-auth-mongodb-uri
-OPENAI_API_KEY=your-openai-key
-```
-4. Run the app:
-```bash
-streamlit run app.py
-```
 
 ---
 

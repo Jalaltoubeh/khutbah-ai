@@ -1,0 +1,17 @@
+streamlit
+pymongo
+openai
+langchain
+langchain-openai
+langchain-core
+langgraph
+pandas
+requests
+beautifulsoup4
+rouge-score
+bert-score
+nltk
+streamlit-authenticator
+pyyaml
+bcrypt
+python-dotenv
